@@ -1,0 +1,5 @@
+<resources>
+    <!-- Keeps the native splash in step with the system theme so a dark-mode
+         launch never flashes a light screen. -->
+    <color name="bootsplash_background">#0B1017</color>
+</resources>
